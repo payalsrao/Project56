@@ -1,0 +1,38 @@
+img{
+    width: 500px;
+    border-radius: 50%;
+    height: 500px;
+    border-style:groove;
+    border-width: 20px;
+    border-color: pink;
+    padding: 10px;
+}
+body{
+    background: linear-gradient(blue, green, yellow, red);
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    color:black;
+    padding: 20px;
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
+    
+}
+h1{
+    font-family: sans-serif;
+    color: mediumvioletred;
+    background-color:chartreuse;
+}
+div{
+    margin-top: 15px;
+}
+.imgsec{
+    display: flex;
+    justify-content: center;
+    
+}
+.images{
+    margin-left: 25px;
+    margin-right: 25px;
+}
